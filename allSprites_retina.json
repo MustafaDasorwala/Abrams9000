@@ -1,0 +1,1316 @@
+{
+   "TextureAtlas": {
+      "SubTexture": [
+         {
+            "_name": "barrelBlack_side.png",
+            "_x": "1016",
+            "_y": "510",
+            "_width": "40",
+            "_height": "56"
+         },
+         {
+            "_name": "barrelBlack_top.png",
+            "_x": "1014",
+            "_y": "1032",
+            "_width": "48",
+            "_height": "48"
+         },
+         {
+            "_name": "barrelGreen_side.png",
+            "_x": "1024",
+            "_y": "0",
+            "_width": "40",
+            "_height": "56"
+         },
+         {
+            "_name": "barrelGreen_top.png",
+            "_x": "1012",
+            "_y": "809",
+            "_width": "48",
+            "_height": "48"
+         },
+         {
+            "_name": "barrelRed_side.png",
+            "_x": "828",
+            "_y": "740",
+            "_width": "40",
+            "_height": "56"
+         },
+         {
+            "_name": "barrelRed_top.png",
+            "_x": "1014",
+            "_y": "984",
+            "_width": "48",
+            "_height": "48"
+         },
+         {
+            "_name": "barrelRust_side.png",
+            "_x": "1016",
+            "_y": "753",
+            "_width": "40",
+            "_height": "56"
+         },
+         {
+            "_name": "barrelRust_top.png",
+            "_x": "1014",
+            "_y": "936",
+            "_width": "48",
+            "_height": "48"
+         },
+         {
+            "_name": "barricadeMetal.png",
+            "_x": "958",
+            "_y": "936",
+            "_width": "56",
+            "_height": "56"
+         },
+         {
+            "_name": "barricadeWood.png",
+            "_x": "958",
+            "_y": "1048",
+            "_width": "56",
+            "_height": "56"
+         },
+         {
+            "_name": "bulletBlue1.png",
+            "_x": "1006",
+            "_y": "1104",
+            "_width": "8",
+            "_height": "20"
+         },
+         {
+            "_name": "bulletBlue1_outline.png",
+            "_x": "1106",
+            "_y": "1069",
+            "_width": "16",
+            "_height": "28"
+         },
+         {
+            "_name": "bulletBlue2.png",
+            "_x": "990",
+            "_y": "1104",
+            "_width": "16",
+            "_height": "24"
+         },
+         {
+            "_name": "bulletBlue2_outline.png",
+            "_x": "1026",
+            "_y": "705",
+            "_width": "24",
+            "_height": "32"
+         },
+         {
+            "_name": "bulletBlue3.png",
+            "_x": "870",
+            "_y": "465",
+            "_width": "8",
+            "_height": "28"
+         },
+         {
+            "_name": "bulletBlue3_outline.png",
+            "_x": "1107",
+            "_y": "240",
+            "_width": "16",
+            "_height": "36"
+         },
+         {
+            "_name": "bulletDark1.png",
+            "_x": "228",
+            "_y": "1024",
+            "_width": "8",
+            "_height": "20"
+         },
+         {
+            "_name": "bulletDark1_outline.png",
+            "_x": "1106",
+            "_y": "1097",
+            "_width": "16",
+            "_height": "28"
+         },
+         {
+            "_name": "bulletDark2.png",
+            "_x": "974",
+            "_y": "1104",
+            "_width": "16",
+            "_height": "24"
+         },
+         {
+            "_name": "bulletDark2_outline.png",
+            "_x": "1085",
+            "_y": "654",
+            "_width": "24",
+            "_height": "32"
+         },
+         {
+            "_name": "bulletDark3.png",
+            "_x": "1024",
+            "_y": "158",
+            "_width": "8",
+            "_height": "28"
+         },
+         {
+            "_name": "bulletDark3_outline.png",
+            "_x": "1106",
+            "_y": "492",
+            "_width": "16",
+            "_height": "36"
+         },
+         {
+            "_name": "bulletGreen1.png",
+            "_x": "308",
+            "_y": "1104",
+            "_width": "8",
+            "_height": "20"
+         },
+         {
+            "_name": "bulletGreen1_outline.png",
+            "_x": "1106",
+            "_y": "412",
+            "_width": "16",
+            "_height": "28"
+         },
+         {
+            "_name": "bulletGreen2.png",
+            "_x": "684",
+            "_y": "1099",
+            "_width": "16",
+            "_height": "24"
+         },
+         {
+            "_name": "bulletGreen2_outline.png",
+            "_x": "1066",
+            "_y": "1069",
+            "_width": "24",
+            "_height": "32"
+         },
+         {
+            "_name": "bulletGreen3.png",
+            "_x": "700",
+            "_y": "1099",
+            "_width": "8",
+            "_height": "28"
+         },
+         {
+            "_name": "bulletGreen3_outline.png",
+            "_x": "1105",
+            "_y": "204",
+            "_width": "16",
+            "_height": "36"
+         },
+         {
+            "_name": "bulletRed1.png",
+            "_x": "236",
+            "_y": "1024",
+            "_width": "8",
+            "_height": "20"
+         },
+         {
+            "_name": "bulletRed1_outline.png",
+            "_x": "668",
+            "_y": "1099",
+            "_width": "16",
+            "_height": "28"
+         },
+         {
+            "_name": "bulletRed2.png",
+            "_x": "958",
+            "_y": "1104",
+            "_width": "16",
+            "_height": "24"
+         },
+         {
+            "_name": "bulletRed2_outline.png",
+            "_x": "1061",
+            "_y": "654",
+            "_width": "24",
+            "_height": "32"
+         },
+         {
+            "_name": "bulletRed3.png",
+            "_x": "308",
+            "_y": "1076",
+            "_width": "8",
+            "_height": "28"
+         },
+         {
+            "_name": "bulletRed3_outline.png",
+            "_x": "1064",
+            "_y": "60",
+            "_width": "16",
+            "_height": "36"
+         },
+         {
+            "_name": "bulletSand1.png",
+            "_x": "212",
+            "_y": "1108",
+            "_width": "8",
+            "_height": "20"
+         },
+         {
+            "_name": "bulletSand1_outline.png",
+            "_x": "652",
+            "_y": "1099",
+            "_width": "16",
+            "_height": "28"
+         },
+         {
+            "_name": "bulletSand2.png",
+            "_x": "1090",
+            "_y": "518",
+            "_width": "16",
+            "_height": "24"
+         },
+         {
+            "_name": "bulletSand2_outline.png",
+            "_x": "1084",
+            "_y": "120",
+            "_width": "24",
+            "_height": "32"
+         },
+         {
+            "_name": "bulletSand3.png",
+            "_x": "952",
+            "_y": "753",
+            "_width": "8",
+            "_height": "28"
+         },
+         {
+            "_name": "bulletSand3_outline.png",
+            "_x": "930",
+            "_y": "569",
+            "_width": "16",
+            "_height": "36"
+         },
+         {
+            "_name": "crateMetal.png",
+            "_x": "958",
+            "_y": "992",
+            "_width": "56",
+            "_height": "56"
+         },
+         {
+            "_name": "crateMetal_side.png",
+            "_x": "960",
+            "_y": "434",
+            "_width": "56",
+            "_height": "56"
+         },
+         {
+            "_name": "crateWood.png",
+            "_x": "960",
+            "_y": "753",
+            "_width": "56",
+            "_height": "56"
+         },
+         {
+            "_name": "crateWood_side.png",
+            "_x": "960",
+            "_y": "490",
+            "_width": "56",
+            "_height": "56"
+         },
+         {
+            "_name": "explosion1.png",
+            "_x": "640",
+            "_y": "804",
+            "_width": "120",
+            "_height": "120"
+         },
+         {
+            "_name": "explosion2.png",
+            "_x": "764",
+            "_y": "508",
+            "_width": "114",
+            "_height": "112"
+         },
+         {
+            "_name": "explosion3.png",
+            "_x": "640",
+            "_y": "256",
+            "_width": "127",
+            "_height": "126"
+         },
+         {
+            "_name": "explosion4.png",
+            "_x": "860",
+            "_y": "96",
+            "_width": "92",
+            "_height": "90"
+         },
+         {
+            "_name": "explosion5.png",
+            "_x": "0",
+            "_y": "1024",
+            "_width": "106",
+            "_height": "104"
+         },
+         {
+            "_name": "explosionSmoke1.png",
+            "_x": "640",
+            "_y": "924",
+            "_width": "120",
+            "_height": "120"
+         },
+         {
+            "_name": "explosionSmoke2.png",
+            "_x": "760",
+            "_y": "940",
+            "_width": "114",
+            "_height": "112"
+         },
+         {
+            "_name": "explosionSmoke3.png",
+            "_x": "640",
+            "_y": "382",
+            "_width": "126",
+            "_height": "126"
+         },
+         {
+            "_name": "explosionSmoke4.png",
+            "_x": "768",
+            "_y": "96",
+            "_width": "92",
+            "_height": "90"
+         },
+         {
+            "_name": "explosionSmoke5.png",
+            "_x": "106",
+            "_y": "1024",
+            "_width": "106",
+            "_height": "104"
+         },
+         {
+            "_name": "fenceRed.png",
+            "_x": "212",
+            "_y": "1076",
+            "_width": "96",
+            "_height": "32"
+         },
+         {
+            "_name": "fenceYellow.png",
+            "_x": "212",
+            "_y": "1044",
+            "_width": "104",
+            "_height": "32"
+         },
+         {
+            "_name": "oilSpill_large.png",
+            "_x": "524",
+            "_y": "1024",
+            "_width": "100",
+            "_height": "100"
+         },
+         {
+            "_name": "oilSpill_small.png",
+            "_x": "624",
+            "_y": "1099",
+            "_width": "28",
+            "_height": "28"
+         },
+         {
+            "_name": "sandbagBeige.png",
+            "_x": "768",
+            "_y": "186",
+            "_width": "64",
+            "_height": "44"
+         },
+         {
+            "_name": "sandbagBeige_open.png",
+            "_x": "624",
+            "_y": "1044",
+            "_width": "84",
+            "_height": "55"
+         },
+         {
+            "_name": "sandbagBrown.png",
+            "_x": "764",
+            "_y": "740",
+            "_width": "64",
+            "_height": "44"
+         },
+         {
+            "_name": "sandbagBrown_open.png",
+            "_x": "708",
+            "_y": "1052",
+            "_width": "84",
+            "_height": "55"
+         },
+         {
+            "_name": "shotLarge.png",
+            "_x": "1024",
+            "_y": "56",
+            "_width": "40",
+            "_height": "50"
+         },
+         {
+            "_name": "shotOrange.png",
+            "_x": "1033",
+            "_y": "214",
+            "_width": "32",
+            "_height": "56"
+         },
+         {
+            "_name": "shotRed.png",
+            "_x": "1016",
+            "_y": "434",
+            "_width": "42",
+            "_height": "76"
+         },
+         {
+            "_name": "shotThin.png",
+            "_x": "1106",
+            "_y": "440",
+            "_width": "16",
+            "_height": "52"
+         },
+         {
+            "_name": "specialBarrel1.png",
+            "_x": "1014",
+            "_y": "1080",
+            "_width": "28",
+            "_height": "44"
+         },
+         {
+            "_name": "specialBarrel1_outline.png",
+            "_x": "1024",
+            "_y": "106",
+            "_width": "36",
+            "_height": "52"
+         },
+         {
+            "_name": "specialBarrel2.png",
+            "_x": "1042",
+            "_y": "1080",
+            "_width": "24",
+            "_height": "48"
+         },
+         {
+            "_name": "specialBarrel2_outline.png",
+            "_x": "1033",
+            "_y": "158",
+            "_width": "32",
+            "_height": "56"
+         },
+         {
+            "_name": "specialBarrel3.png",
+            "_x": "1088",
+            "_y": "0",
+            "_width": "20",
+            "_height": "56"
+         },
+         {
+            "_name": "specialBarrel3_outline.png",
+            "_x": "832",
+            "_y": "186",
+            "_width": "28",
+            "_height": "64"
+         },
+         {
+            "_name": "specialBarrel4.png",
+            "_x": "1088",
+            "_y": "746",
+            "_width": "20",
+            "_height": "64"
+         },
+         {
+            "_name": "specialBarrel4_outline.png",
+            "_x": "1060",
+            "_y": "765",
+            "_width": "28",
+            "_height": "72"
+         },
+         {
+            "_name": "specialBarrel5.png",
+            "_x": "1060",
+            "_y": "106",
+            "_width": "24",
+            "_height": "52"
+         },
+         {
+            "_name": "specialBarrel5_outline.png",
+            "_x": "1058",
+            "_y": "362",
+            "_width": "32",
+            "_height": "60"
+         },
+         {
+            "_name": "specialBarrel6.png",
+            "_x": "1089",
+            "_y": "152",
+            "_width": "16",
+            "_height": "52"
+         },
+         {
+            "_name": "specialBarrel6_outline.png",
+            "_x": "1062",
+            "_y": "897",
+            "_width": "24",
+            "_height": "60"
+         },
+         {
+            "_name": "specialBarrel7.png",
+            "_x": "1106",
+            "_y": "360",
+            "_width": "16",
+            "_height": "52"
+         },
+         {
+            "_name": "specialBarrel7_outline.png",
+            "_x": "1062",
+            "_y": "1009",
+            "_width": "24",
+            "_height": "60"
+         },
+         {
+            "_name": "tankBlue_barrel1.png",
+            "_x": "1086",
+            "_y": "957",
+            "_width": "24",
+            "_height": "52"
+         },
+         {
+            "_name": "tankBlue_barrel1_outline.png",
+            "_x": "1058",
+            "_y": "422",
+            "_width": "32",
+            "_height": "60"
+         },
+         {
+            "_name": "tankBlue_barrel2.png",
+            "_x": "1090",
+            "_y": "1069",
+            "_width": "16",
+            "_height": "52"
+         },
+         {
+            "_name": "tankBlue_barrel2_outline.png",
+            "_x": "1060",
+            "_y": "837",
+            "_width": "24",
+            "_height": "60"
+         },
+         {
+            "_name": "tankBlue_barrel3.png",
+            "_x": "1090",
+            "_y": "466",
+            "_width": "16",
+            "_height": "52"
+         },
+         {
+            "_name": "tankBlue_barrel3_outline.png",
+            "_x": "1061",
+            "_y": "542",
+            "_width": "24",
+            "_height": "60"
+         },
+         {
+            "_name": "tankBody_bigRed.png",
+            "_x": "768",
+            "_y": "0",
+            "_width": "96",
+            "_height": "96"
+         },
+         {
+            "_name": "tankBody_bigRed_outline.png",
+            "_x": "420",
+            "_y": "1024",
+            "_width": "104",
+            "_height": "104"
+         },
+         {
+            "_name": "tankBody_blue.png",
+            "_x": "792",
+            "_y": "1052",
+            "_width": "76",
+            "_height": "76"
+         },
+         {
+            "_name": "tankBody_blue_outline.png",
+            "_x": "868",
+            "_y": "620",
+            "_width": "84",
+            "_height": "84"
+         },
+         {
+            "_name": "tankBody_dark.png",
+            "_x": "876",
+            "_y": "864",
+            "_width": "76",
+            "_height": "72"
+         },
+         {
+            "_name": "tankBody_darkLarge.png",
+            "_x": "767",
+            "_y": "256",
+            "_width": "96",
+            "_height": "112"
+         },
+         {
+            "_name": "tankBody_darkLarge_outline.png",
+            "_x": "764",
+            "_y": "620",
+            "_width": "104",
+            "_height": "120"
+         },
+         {
+            "_name": "tankBody_dark_outline.png",
+            "_x": "868",
+            "_y": "704",
+            "_width": "84",
+            "_height": "80"
+         },
+         {
+            "_name": "tankBody_green.png",
+            "_x": "947",
+            "_y": "290",
+            "_width": "76",
+            "_height": "72"
+         },
+         {
+            "_name": "tankBody_green_outline.png",
+            "_x": "874",
+            "_y": "1032",
+            "_width": "84",
+            "_height": "80"
+         },
+         {
+            "_name": "tankBody_huge.png",
+            "_x": "760",
+            "_y": "804",
+            "_width": "116",
+            "_height": "136"
+         },
+         {
+            "_name": "tankBody_huge_outline.png",
+            "_x": "640",
+            "_y": "660",
+            "_width": "124",
+            "_height": "144"
+         },
+         {
+            "_name": "tankBody_red.png",
+            "_x": "1023",
+            "_y": "290",
+            "_width": "68",
+            "_height": "72"
+         },
+         {
+            "_name": "tankBody_red_outline.png",
+            "_x": "952",
+            "_y": "569",
+            "_width": "76",
+            "_height": "80"
+         },
+         {
+            "_name": "tankBody_sand.png",
+            "_x": "952",
+            "_y": "864",
+            "_width": "76",
+            "_height": "72"
+         },
+         {
+            "_name": "tankBody_sand_outline.png",
+            "_x": "876",
+            "_y": "784",
+            "_width": "84",
+            "_height": "80"
+         },
+         {
+            "_name": "tankDark_barrel1.png",
+            "_x": "1085",
+            "_y": "602",
+            "_width": "24",
+            "_height": "52"
+         },
+         {
+            "_name": "tankDark_barrel1_outline.png",
+            "_x": "1056",
+            "_y": "705",
+            "_width": "32",
+            "_height": "60"
+         },
+         {
+            "_name": "tankDark_barrel2.png",
+            "_x": "1091",
+            "_y": "308",
+            "_width": "16",
+            "_height": "52"
+         },
+         {
+            "_name": "tankDark_barrel2_outline.png",
+            "_x": "1084",
+            "_y": "837",
+            "_width": "24",
+            "_height": "60"
+         },
+         {
+            "_name": "tankDark_barrel3.png",
+            "_x": "1107",
+            "_y": "276",
+            "_width": "16",
+            "_height": "52"
+         },
+         {
+            "_name": "tankDark_barrel3_outline.png",
+            "_x": "1065",
+            "_y": "210",
+            "_width": "24",
+            "_height": "60"
+         },
+         {
+            "_name": "tankGreen_barrel1.png",
+            "_x": "1062",
+            "_y": "957",
+            "_width": "24",
+            "_height": "52"
+         },
+         {
+            "_name": "tankGreen_barrel1_outline.png",
+            "_x": "1028",
+            "_y": "857",
+            "_width": "32",
+            "_height": "60"
+         },
+         {
+            "_name": "tankGreen_barrel2.png",
+            "_x": "1108",
+            "_y": "746",
+            "_width": "16",
+            "_height": "52"
+         },
+         {
+            "_name": "tankGreen_barrel2_outline.png",
+            "_x": "1086",
+            "_y": "897",
+            "_width": "24",
+            "_height": "60"
+         },
+         {
+            "_name": "tankGreen_barrel3.png",
+            "_x": "1089",
+            "_y": "204",
+            "_width": "16",
+            "_height": "52"
+         },
+         {
+            "_name": "tankGreen_barrel3_outline.png",
+            "_x": "1086",
+            "_y": "1009",
+            "_width": "24",
+            "_height": "60"
+         },
+         {
+            "_name": "tankRed_barrel1.png",
+            "_x": "1061",
+            "_y": "602",
+            "_width": "24",
+            "_height": "52"
+         },
+         {
+            "_name": "tankRed_barrel1_outline.png",
+            "_x": "1026",
+            "_y": "362",
+            "_width": "32",
+            "_height": "60"
+         },
+         {
+            "_name": "tankRed_barrel2.png",
+            "_x": "1090",
+            "_y": "414",
+            "_width": "16",
+            "_height": "52"
+         },
+         {
+            "_name": "tankRed_barrel2_outline.png",
+            "_x": "1085",
+            "_y": "542",
+            "_width": "24",
+            "_height": "60"
+         },
+         {
+            "_name": "tankRed_barrel3.png",
+            "_x": "1090",
+            "_y": "362",
+            "_width": "16",
+            "_height": "52"
+         },
+         {
+            "_name": "tankRed_barrel3_outline.png",
+            "_x": "1088",
+            "_y": "686",
+            "_width": "24",
+            "_height": "60"
+         },
+         {
+            "_name": "tankSand_barrel1.png",
+            "_x": "1065",
+            "_y": "158",
+            "_width": "24",
+            "_height": "52"
+         },
+         {
+            "_name": "tankSand_barrel1_outline.png",
+            "_x": "1058",
+            "_y": "482",
+            "_width": "32",
+            "_height": "60"
+         },
+         {
+            "_name": "tankSand_barrel2.png",
+            "_x": "1105",
+            "_y": "152",
+            "_width": "16",
+            "_height": "52"
+         },
+         {
+            "_name": "tankSand_barrel2_outline.png",
+            "_x": "1064",
+            "_y": "0",
+            "_width": "24",
+            "_height": "60"
+         },
+         {
+            "_name": "tankSand_barrel3.png",
+            "_x": "1091",
+            "_y": "256",
+            "_width": "16",
+            "_height": "52"
+         },
+         {
+            "_name": "tankSand_barrel3_outline.png",
+            "_x": "1084",
+            "_y": "60",
+            "_width": "24",
+            "_height": "60"
+         },
+         {
+            "_name": "tank_bigRed.png",
+            "_x": "316",
+            "_y": "1024",
+            "_width": "104",
+            "_height": "104"
+         },
+         {
+            "_name": "tank_blue.png",
+            "_x": "874",
+            "_y": "940",
+            "_width": "84",
+            "_height": "92"
+         },
+         {
+            "_name": "tank_dark.png",
+            "_x": "870",
+            "_y": "373",
+            "_width": "84",
+            "_height": "92"
+         },
+         {
+            "_name": "tank_darkLarge.png",
+            "_x": "766",
+            "_y": "382",
+            "_width": "104",
+            "_height": "120"
+         },
+         {
+            "_name": "tank_green.png",
+            "_x": "864",
+            "_y": "0",
+            "_width": "84",
+            "_height": "92"
+         },
+         {
+            "_name": "tank_huge.png",
+            "_x": "640",
+            "_y": "508",
+            "_width": "124",
+            "_height": "152"
+         },
+         {
+            "_name": "tank_red.png",
+            "_x": "948",
+            "_y": "0",
+            "_width": "76",
+            "_height": "92"
+         },
+         {
+            "_name": "tank_sand.png",
+            "_x": "863",
+            "_y": "281",
+            "_width": "84",
+            "_height": "92"
+         },
+         {
+            "_name": "tileGrass1.png",
+            "_x": "384",
+            "_y": "896",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass2.png",
+            "_x": "384",
+            "_y": "256",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadCornerLL.png",
+            "_x": "0",
+            "_y": "512",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadCornerLR.png",
+            "_x": "0",
+            "_y": "640",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadCornerUL.png",
+            "_x": "128",
+            "_y": "256",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadCornerUR.png",
+            "_x": "128",
+            "_y": "384",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadCrossing.png",
+            "_x": "128",
+            "_y": "640",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadCrossingRound.png",
+            "_x": "384",
+            "_y": "512",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadEast.png",
+            "_x": "0",
+            "_y": "768",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadNorth.png",
+            "_x": "128",
+            "_y": "896",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadSplitE.png",
+            "_x": "128",
+            "_y": "768",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadSplitN.png",
+            "_x": "384",
+            "_y": "384",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadSplitS.png",
+            "_x": "384",
+            "_y": "768",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadSplitW.png",
+            "_x": "512",
+            "_y": "512",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadTransitionE.png",
+            "_x": "512",
+            "_y": "640",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadTransitionE_dirt.png",
+            "_x": "512",
+            "_y": "768",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadTransitionN.png",
+            "_x": "512",
+            "_y": "384",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadTransitionN_dirt.png",
+            "_x": "640",
+            "_y": "0",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadTransitionS.png",
+            "_x": "512",
+            "_y": "896",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadTransitionS_dirt.png",
+            "_x": "0",
+            "_y": "0",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadTransitionW.png",
+            "_x": "0",
+            "_y": "256",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_roadTransitionW_dirt.png",
+            "_x": "0",
+            "_y": "128",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_transitionE.png",
+            "_x": "640",
+            "_y": "128",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_transitionN.png",
+            "_x": "512",
+            "_y": "256",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_transitionS.png",
+            "_x": "512",
+            "_y": "128",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileGrass_transitionW.png",
+            "_x": "512",
+            "_y": "0",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileSand1.png",
+            "_x": "256",
+            "_y": "128",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileSand2.png",
+            "_x": "256",
+            "_y": "0",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileSand_roadCornerLL.png",
+            "_x": "384",
+            "_y": "640",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileSand_roadCornerLR.png",
+            "_x": "0",
+            "_y": "896",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileSand_roadCornerUL.png",
+            "_x": "128",
+            "_y": "128",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileSand_roadCornerUR.png",
+            "_x": "0",
+            "_y": "384",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileSand_roadCrossing.png",
+            "_x": "384",
+            "_y": "128",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileSand_roadCrossingRound.png",
+            "_x": "384",
+            "_y": "0",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileSand_roadEast.png",
+            "_x": "256",
+            "_y": "896",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileSand_roadNorth.png",
+            "_x": "256",
+            "_y": "768",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileSand_roadSplitE.png",
+            "_x": "256",
+            "_y": "640",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileSand_roadSplitN.png",
+            "_x": "256",
+            "_y": "512",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileSand_roadSplitS.png",
+            "_x": "256",
+            "_y": "384",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tileSand_roadSplitW.png",
+            "_x": "256",
+            "_y": "256",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "tracksDouble.png",
+            "_x": "951",
+            "_y": "186",
+            "_width": "82",
+            "_height": "104"
+         },
+         {
+            "_name": "tracksLarge.png",
+            "_x": "878",
+            "_y": "465",
+            "_width": "82",
+            "_height": "104"
+         },
+         {
+            "_name": "tracksSmall.png",
+            "_x": "952",
+            "_y": "649",
+            "_width": "74",
+            "_height": "104"
+         },
+         {
+            "_name": "treeBrown_large.png",
+            "_x": "128",
+            "_y": "512",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "treeBrown_leaf.png",
+            "_x": "212",
+            "_y": "1024",
+            "_width": "16",
+            "_height": "20"
+         },
+         {
+            "_name": "treeBrown_small.png",
+            "_x": "952",
+            "_y": "92",
+            "_width": "72",
+            "_height": "72"
+         },
+         {
+            "_name": "treeBrown_twigs.png",
+            "_x": "878",
+            "_y": "569",
+            "_width": "52",
+            "_height": "44"
+         },
+         {
+            "_name": "treeGreen_large.png",
+            "_x": "128",
+            "_y": "0",
+            "_width": "128",
+            "_height": "128"
+         },
+         {
+            "_name": "treeGreen_leaf.png",
+            "_x": "624",
+            "_y": "1024",
+            "_width": "16",
+            "_height": "20"
+         },
+         {
+            "_name": "treeGreen_small.png",
+            "_x": "954",
+            "_y": "362",
+            "_width": "72",
+            "_height": "72"
+         },
+         {
+            "_name": "treeGreen_twigs.png",
+            "_x": "960",
+            "_y": "809",
+            "_width": "52",
+            "_height": "44"
+         },
+         {
+            "_name": "wireCrooked.png",
+            "_x": "863",
+            "_y": "186",
+            "_width": "88",
+            "_height": "95"
+         },
+         {
+            "_name": "wireStraight.png",
+            "_x": "1028",
+            "_y": "566",
+            "_width": "33",
+            "_height": "139"
+         }
+      ],
+      "_imagePath": "allSprites_retina.png"
+   }
+}

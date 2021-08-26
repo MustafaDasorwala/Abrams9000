@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://assets/allSprites_default.png" type="Texture" id=1]
+
+[node name="turret" type="Sprite"]
+rotation = -1.5708
+texture = ExtResource( 1 )
+offset = Vector2( 0, 10 )
+region_enabled = true
+region_rect = Rect2( 543, 489, 12, 30 )
+
+[node name="Muzzle" type="Position2D" parent="."]
+position = Vector2( 0, 30 )
+rotation = -1.5708
